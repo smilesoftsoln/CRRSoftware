@@ -1,0 +1,1 @@
+VSIP: Developer edition, all third-party packages allowed to load.

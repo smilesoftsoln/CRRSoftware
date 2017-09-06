@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\smile\Desktop\CRR" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Default.aspx" publishTime="12/14/2015 14:51:24" />
+    <file relUrl="RM_Master.aspx" publishTime="08/21/2015 10:07:44" />
+    <file relUrl="img/pdf_logo.jpg" publishTime="05/02/2013 16:14:42" />
+    <file relUrl="confirmation/ConfirmationMailer.aspx" publishTime="03/14/2014 12:13:52" />
+    <file relUrl="bin/itextsharp.dll" publishTime="04/01/2012 14:21:30" />
+    <file relUrl="CashNetRisk.aspx" publishTime="04/25/2013 16:52:14" />
+    <file relUrl="InvestmentSummary.aspx" publishTime="07/09/2017 21:49:58" />
+    <file relUrl="ClientMaster.aspx" publishTime="01/12/2016 10:22:52" />
+    <file relUrl="Web.config" publishTime="10/05/2016 10:04:02" />
+    <file relUrl="Detailed.htm" publishTime="07/26/2017 19:16:45" />
+    <file relUrl="FNONetRisk.aspx" publishTime="04/25/2013 16:50:26" />
+    <file relUrl="Site1.Master" publishTime="02/26/2014 11:22:34" />
+    <file relUrl="VisitMailer.aspx" publishTime="05/20/2013 10:08:04" />
+    <file relUrl="confirmation/ImportOFLReport.aspx" publishTime="03/06/2014 12:03:06" />
+    <file relUrl="Client_Count_RM.aspx" publishTime="05/13/2013 15:36:32" />
+    <file relUrl="img/magnifying-glass-on-a-newspaper-o.jpg" publishTime="05/02/2013 16:14:42" />
+    <file relUrl="ImportMaster.aspx" publishTime="04/12/2013 09:51:00" />
+    <file relUrl="Global.asax" publishTime="05/09/2013 12:11:36" />
+    <file relUrl="BM_RM_Page.aspx" publishTime="08/21/2015 09:39:04" />
+    <file relUrl="ReminderSMS.aspx" publishTime="08/21/2015 10:10:36" />
+    <file relUrl="Snooze.aspx" publishTime="07/20/2013 12:59:36" />
+    <file relUrl="Site2.Master" publishTime="02/26/2014 11:29:14" />
+    <file relUrl="SubBrokerMaster.aspx" publishTime="12/14/2015 14:54:22" />
+    <file relUrl="GroupLeaderInvestment.aspx" publishTime="03/26/2013 11:32:50" />
+    <file relUrl="img/picturedetail.php.png" publishTime="05/02/2013 16:14:42" />
+    <file relUrl="img/wallsTextureNo1213_preview.jpg" publishTime="05/02/2013 16:14:42" />
+    <file relUrl="VisitrMailCountSender.html" publishTime="07/09/2013 11:43:22" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="04/25/2013 16:22:12" />
+    <file relUrl="confirmation/ModificationReport.aspx" publishTime="04/05/2014 11:28:08" />
+    <file relUrl="img/jigsaw 1.jpg" publishTime="05/02/2013 16:14:42" />
+    <file relUrl="DP919.aspx" publishTime="04/25/2013 16:50:26" />
+    <file relUrl="UserManagement.aspx" publishTime="06/24/2013 15:39:00" />
+    <file relUrl="untitled.bmp" publishTime="04/23/2013 15:09:52" />
+    <file relUrl="ReportOnPan.aspx" publishTime="07/28/2016 07:25:56" />
+    <file relUrl="MacMapping.aspx" publishTime="04/30/2013 16:03:00" />
+    <file relUrl="Summary.htm" publishTime="07/26/2017 19:16:45" />
+    <file relUrl="MFNetRisk.aspx" publishTime="04/25/2013 16:52:14" />
+    <file relUrl="DP900.aspx" publishTime="04/25/2013 16:47:46" />
+    <file relUrl="Data/pdf1_logo.jpg" publishTime="05/09/2013 14:27:16" />
+    <file relUrl="Summary.aspx" publishTime="07/26/2017 19:25:54" />
+    <file relUrl="img/Reports at a glance.jpg" publishTime="05/02/2013 16:14:42" />
+    <file relUrl="confirmation/Site2.Master" publishTime="03/06/2014 11:54:18" />
+    <file relUrl="img/paperTextureNo5691_preview.jpg" publishTime="05/02/2013 16:14:42" />
+    <file relUrl="img/pdf_logo1.jpg" publishTime="05/02/2013 16:53:24" />
+    <file relUrl="Admin.aspx" publishTime="03/16/2016 21:42:16" />
+    <file relUrl="pdf_logo.jpg" publishTime="07/12/2011 16:09:16" />
+    <file relUrl="ReminderUpdate.aspx" publishTime="07/04/2013 13:30:08" />
+    <file relUrl="MFSubBrokerMaster.aspx" publishTime="03/16/2016 21:43:50" />
+    <file relUrl="confirmation/ContactModification.aspx" publishTime="04/04/2014 09:46:26" />
+    <file relUrl="RM_Mapping.aspx" publishTime="04/25/2013 16:53:44" />
+    <file relUrl="VisitrMailSender.html" publishTime="05/20/2013 10:15:54" />
+    <file relUrl="bin/InvestmentSummary.dll" publishTime="07/26/2017 19:26:42" />
+    <file relUrl="bin/InvestmentSummary.pdb" publishTime="07/26/2017 19:26:42" />
+    <file relUrl="img/abstract.jpg" publishTime="05/02/2013 16:14:42" />
+    <file relUrl="VisitReport.aspx" publishTime="05/16/2013 15:06:44" />
+    <file relUrl="App_Data/InvestmentSummary.mdf" publishTime="07/26/2017 18:14:07" />
+    <file relUrl="Scripts/ScrollableGridPlugin.js" publishTime="04/25/2013 16:22:12" />
+    <file relUrl="confirmation/UserEntriesExport.aspx" publishTime="10/27/2014 16:35:54" />
+    <file relUrl="img/pdf1_logo.jpg" publishTime="05/02/2013 16:14:42" />
+    <file relUrl="Mailer.aspx" publishTime="05/20/2013 09:51:46" />
+    <file relUrl="App_Data/InvestmentSummary_log.ldf" publishTime="07/26/2017 18:14:07" />
+    <file relUrl="confirmation/UserEntriesExportUser.aspx" publishTime="10/27/2014 11:17:56" />
+    <file relUrl="PMSNetRisk.aspx" publishTime="04/25/2013 16:52:14" />
+    <file relUrl="confirmation/ConfirmationEntry.aspx" publishTime="11/11/2014 16:44:46" />
+    <file relUrl="VisitCountMailer.aspx" publishTime="07/09/2013 10:43:06" />
+    <file relUrl="Web1.config" publishTime="08/20/2013 11:27:28" />
+    <file relUrl="ImportLog.aspx" publishTime="04/03/2013 16:09:46" />
+    <file relUrl="bin/AjaxControlToolkit.dll" publishTime="06/23/2012 22:35:36" />
+    <file relUrl="ReminderSetting.aspx" publishTime="07/04/2013 13:29:20" />
+    <file relUrl="MentorPage.aspx" publishTime="07/05/2013 15:23:52" />
+    <file relUrl="img/paperTextureNo2254_preview.jpg" publishTime="05/02/2013 16:14:42" />
+    <file relUrl="confirmation/UnmatchedReport.aspx" publishTime="04/21/2014 14:19:18" />
+    <file relUrl="Family_PDF.aspx" publishTime="07/08/2013 11:16:52" />
+    <file relUrl="Margin_Funding.aspx" publishTime="04/25/2013 16:52:14" />
+    <file relUrl="Investment%20Details1.PNG" publishTime="04/23/2013 15:17:44" />
+    <file relUrl="ReminderMailSender.html" publishTime="02/26/2014 11:28:58" />
+    <file relUrl="Investment%20Details.jpg" publishTime="04/23/2013 14:52:52" />
+    <file relUrl="RM_Family_PDF.aspx" publishTime="04/30/2013 12:26:00" />
+  </publishProfile>
+</publishData>

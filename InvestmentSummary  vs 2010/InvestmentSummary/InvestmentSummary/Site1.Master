@@ -1,0 +1,46 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="InvestmentSummary.Site1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>Untitled Page</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .style1
+        {
+            width: 163px;
+        }
+    </style>
+    </head>
+<body  background="img/paperTextureNo2254_preview.jpg">
+    <form id="form1" runat="server" >
+    <div>
+  <table style="width:100%">
+  <tr >
+  <td colspan="2"><center style="color: #800000" ><b style="font-size: xx-large">
+                    <asp:Image ID="logo" runat="server" Height="58px" 
+          ImageUrl="~/pdf_logo.jpg" Width="92px"   />    Trade Net Wealth Managers Pvt Ltd,Kolhapur</b></center></td>
+  </tr>
+  <tr >  <td  colspan="2" align="center"  style="color:#003366; font-family: 'Arial Black';" align="left"> Investment Summary Software </td>  </tr>
+  <tr >
+  <td style="color:#003366; font-family: 'Arial Black';" align="left" class="style1"> 
+      <asp:LinkButton ID="LinkButton2" runat="server" CausesValidation="False" 
+          onclick="LinkButton2_Click">Home</asp:LinkButton>
+      </td> <td  style="color:Black;" align="right">  
+      &nbsp;Welcome&nbsp; <asp:Label ID="Label1" runat="server" Text="" 
+          style="font-weight: 700; color: #003300"></asp:Label>  [   
+      <asp:LinkButton ID="LinkButton1" runat="server" onclick="LinkButton1_Click" 
+          CausesValidation="False">Sign Out</asp:LinkButton> ]</td>
+  </tr>
+  <tr><td   colspan="2" style="font-family: 'Century Gothic'"><asp:ContentPlaceHolder   ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder></td>
+  </tr>
+  </table>  
+        
+    </div>
+    </form>
+</body>
+</html>

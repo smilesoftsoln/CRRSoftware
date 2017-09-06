@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<configuration>
+	<appSettings>
+		<add key="WijmoTheme" value="sterling"/>
+		<add key="WijmoCDNPath"/>
+		<add key="WijmoUseCDN" value="False"/>
+	</appSettings>
+	<connectionStrings>
+    <add name="ConnectionString1" connectionString="Data Source=10.56.65.45\SQLEXPRESS;Initial Catalog=CRR;Integrated Security=True" providerName="System.Data.SqlClient"/>
+    <add name="Customer_Care_Suport_DataConnectionString2" connectionString="Data Source=10.56.65.45\SQLEXPRESS;Initial Catalog=CRR;Integrated Security=True" providerName="System.Data.SqlClient"/>
+
+    <!--<add name="ConnectionString1" connectionString="Data Source=.\SQLEXPRESS;AttachDbFilename=|DataDirectory|\InvestmentSummary.mdf;Integrated Security=True;Connect Timeout=30;User Instance=True" providerName="System.Data.SqlClient"/>
+		<add name="Customer_Care_Suport_DataConnectionString2" connectionString="Data Source=.\SQLEXPRESS;AttachDbFilename=|DataDirectory|\InvestmentSummary.mdf;Integrated Security=True;User Instance=True" providerName="System.Data.SqlClient"/>-->
+	</connectionStrings>
+	<location allowOverride="true">
+		<system.web>
+			<authorization>
+				<allow users="*"/>
+			</authorization>
+		</system.web>
+	</location>
+	<system.web>
+     
+    <!-- 
+            Set compilation debug="true" to insert debugging 
+            symbols into the compiled page. Because this 
+            affects performance, set this value to true only 
+            during development.
+        -->
+    <authentication mode="Windows" />
+		<identity impersonate="true" userName="Administrator" password="reliance"/>
+		<!-- 
+            Set compilation debug="true" to insert debugging 
+            symbols into the compiled page. Because this 
+            affects performance, set this value to true only 
+            during development.
+        -->
+		<roleManager enabled="true"/>
+		<compilation debug="true" targetFramework="4.0">
+			<assemblies>
+				<add assembly="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=B77A5C561934E089"/>
+				<add assembly="System.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=B03F5F7F11D50A3A"/></assemblies>
+		</compilation>
+		<!--
+            The <authentication> section enables configuration 
+            of the security authentication mode used by 
+            ASP.NET to identify an incoming user. 
+        -->
+		<sessionState timeout="540"></sessionState>
+		<!--<authorization>
+			<deny users="?"/>
+    <allow users="*" />
+     
+      
+   
+		</authorization>-->
+		<!--
+            The <customErrors> section enables configuration 
+            of what to do if/when an unhandled error occurs 
+            during the execution of a request. Specifically, 
+            it enables developers to configure html error pages 
+            to be displayed in place of a error stack trace.
+
+      
+        -->
+		<httpRuntime requestValidationMode="2.0" executionTimeout="11000" maxRequestLength="25264" requestLengthDiskThreshold="80" useFullyQualifiedRedirectUrl="false" minFreeThreads="8" minLocalRequestFreeThreads="4" appRequestQueueLimit="5000" enableKernelOutputCache="true" enableVersionHeader="true" requireRootedSaveAsPath="true" enable="true" shutdownTimeout="90" delayNotificationTimeout="5" waitChangeNotification="0" maxWaitChangeNotification="0" enableHeaderChecking="true" sendCacheControlHeader="true" apartmentThreading="false"/>
+		<customErrors mode="Off" defaultRedirect="GenericErrorPage.htm">
+			<error statusCode="403" redirect="NoAccess.htm"/>
+			<error statusCode="404" redirect="FileNotFound.htm"/>
+		</customErrors>
+		<pages controlRenderingCompatibilityVersion="3.5" clientIDMode="AutoID" validateRequest="false" />
+  </system.web>
+	<!-- 
+        The system.webServer section is required for running ASP.NET AJAX under Internet
+        Information Services 7.0.  It is not necessary for previous version of IIS.
+    -->
+</configuration>

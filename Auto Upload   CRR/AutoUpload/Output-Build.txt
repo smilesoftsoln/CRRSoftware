@@ -1,0 +1,45 @@
+﻿------ Rebuild All started: Project: AutoUpload, Configuration: Debug x86 ------
+D:\ABHI Softwares 16 oct 2014\Auto Upload\Auto Upload 30 OCT  2015\AutoUpload\Service1.cs(131,50): warning CS0168: The variable 'ex' is declared but never used
+D:\ABHI Softwares 16 oct 2014\Auto Upload\Auto Upload 30 OCT  2015\AutoUpload\Service1.cs(329,38): warning CS0168: The variable 'ex' is declared but never used
+D:\ABHI Softwares 16 oct 2014\Auto Upload\Auto Upload 30 OCT  2015\AutoUpload\Service1.cs(407,50): warning CS0168: The variable 'ex' is declared but never used
+D:\ABHI Softwares 16 oct 2014\Auto Upload\Auto Upload 30 OCT  2015\AutoUpload\Service1.cs(424,40): warning CS0219: The variable 'branch' is assigned but its value is never used
+D:\ABHI Softwares 16 oct 2014\Auto Upload\Auto Upload 30 OCT  2015\AutoUpload\Service1.cs(479,46): warning CS0168: The variable 'eee' is declared but never used
+D:\ABHI Softwares 16 oct 2014\Auto Upload\Auto Upload 30 OCT  2015\AutoUpload\Service1.cs(520,38): warning CS0168: The variable 'ex' is declared but never used
+D:\ABHI Softwares 16 oct 2014\Auto Upload\Auto Upload 30 OCT  2015\AutoUpload\Service1.cs(584,50): warning CS0168: The variable 'ex' is declared but never used
+D:\ABHI Softwares 16 oct 2014\Auto Upload\Auto Upload 30 OCT  2015\AutoUpload\Service1.cs(627,38): warning CS0168: The variable 'ex' is declared but never used
+D:\ABHI Softwares 16 oct 2014\Auto Upload\Auto Upload 30 OCT  2015\AutoUpload\Service1.cs(693,50): warning CS0168: The variable 'ex' is declared but never used
+D:\ABHI Softwares 16 oct 2014\Auto Upload\Auto Upload 30 OCT  2015\AutoUpload\Service1.cs(739,38): warning CS0168: The variable 'ex' is declared but never used
+D:\ABHI Softwares 16 oct 2014\Auto Upload\Auto Upload 30 OCT  2015\AutoUpload\Service1.cs(807,54): warning CS0168: The variable 'ex' is declared but never used
+D:\ABHI Softwares 16 oct 2014\Auto Upload\Auto Upload 30 OCT  2015\AutoUpload\Service1.cs(857,41): warning CS0219: The variable 'last' is assigned but its value is never used
+D:\ABHI Softwares 16 oct 2014\Auto Upload\Auto Upload 30 OCT  2015\AutoUpload\Service1.cs(1172,34): warning CS0168: The variable 'ex' is declared but never used
+D:\ABHI Softwares 16 oct 2014\Auto Upload\Auto Upload 30 OCT  2015\AutoUpload\Service1.cs(1365,38): warning CS0168: The variable 'ex' is declared but never used
+D:\ABHI Softwares 16 oct 2014\Auto Upload\Auto Upload 30 OCT  2015\AutoUpload\Service1.cs(1413,46): warning CS0168: The variable 'ex' is declared but never used
+D:\ABHI Softwares 16 oct 2014\Auto Upload\Auto Upload 30 OCT  2015\AutoUpload\Service1.cs(1448,54): warning CS0168: The variable 'ex' is declared but never used
+D:\ABHI Softwares 16 oct 2014\Auto Upload\Auto Upload 30 OCT  2015\AutoUpload\Service1.cs(1474,50): warning CS0168: The variable 'e' is declared but never used
+D:\ABHI Softwares 16 oct 2014\Auto Upload\Auto Upload 30 OCT  2015\AutoUpload\Service1.cs(1497,41): warning CS0219: The variable 'last' is assigned but its value is never used
+D:\ABHI Softwares 16 oct 2014\Auto Upload\Auto Upload 30 OCT  2015\AutoUpload\Service1.cs(1518,62): warning CS0168: The variable 'ex' is declared but never used
+D:\ABHI Softwares 16 oct 2014\Auto Upload\Auto Upload 30 OCT  2015\AutoUpload\Service1.cs(1666,38): warning CS0168: The variable 'ex' is declared but never used
+D:\ABHI Softwares 16 oct 2014\Auto Upload\Auto Upload 30 OCT  2015\AutoUpload\Service1.cs(1704,25): warning CS0219: The variable 'dateflag' is assigned but its value is never used
+D:\ABHI Softwares 16 oct 2014\Auto Upload\Auto Upload 30 OCT  2015\AutoUpload\Service1.cs(1728,50): warning CS0168: The variable 'ex' is declared but never used
+D:\ABHI Softwares 16 oct 2014\Auto Upload\Auto Upload 30 OCT  2015\AutoUpload\Service1.cs(1770,46): warning CS0168: The variable 'ex' is declared but never used
+D:\ABHI Softwares 16 oct 2014\Auto Upload\Auto Upload 30 OCT  2015\AutoUpload\Service1.cs(1797,46): warning CS0168: The variable 'EX' is declared but never used
+D:\ABHI Softwares 16 oct 2014\Auto Upload\Auto Upload 30 OCT  2015\AutoUpload\Service1.cs(1869,46): warning CS0168: The variable 'e' is declared but never used
+D:\ABHI Softwares 16 oct 2014\Auto Upload\Auto Upload 30 OCT  2015\AutoUpload\Service1.cs(2007,34): warning CS0168: The variable 'ex' is declared but never used
+D:\ABHI Softwares 16 oct 2014\Auto Upload\Auto Upload 30 OCT  2015\AutoUpload\Service1.cs(2075,50): warning CS0168: The variable 'ex' is declared but never used
+D:\ABHI Softwares 16 oct 2014\Auto Upload\Auto Upload 30 OCT  2015\AutoUpload\Service1.cs(2086,42): warning CS0168: The variable 'ex' is declared but never used
+D:\ABHI Softwares 16 oct 2014\Auto Upload\Auto Upload 30 OCT  2015\AutoUpload\Service1.cs(2127,46): warning CS0168: The variable 'ex' is declared but never used
+D:\ABHI Softwares 16 oct 2014\Auto Upload\Auto Upload 30 OCT  2015\AutoUpload\Service1.cs(2176,42): warning CS0168: The variable 'ex' is declared but never used
+D:\ABHI Softwares 16 oct 2014\Auto Upload\Auto Upload 30 OCT  2015\AutoUpload\Service1.cs(2325,34): warning CS0168: The variable 'ex' is declared but never used
+D:\ABHI Softwares 16 oct 2014\Auto Upload\Auto Upload 30 OCT  2015\AutoUpload\Service1.cs(2627,30): warning CS0168: The variable 'e' is declared but never used
+D:\ABHI Softwares 16 oct 2014\Auto Upload\Auto Upload 30 OCT  2015\AutoUpload\Service1.cs(2803,30): warning CS0168: The variable 'wzx' is declared but never used
+D:\ABHI Softwares 16 oct 2014\Auto Upload\Auto Upload 30 OCT  2015\AutoUpload\Service1.cs(28,20): warning CS0169: The field 'BrokerageMail.Service1.sqlcmd' is never used
+D:\ABHI Softwares 16 oct 2014\Auto Upload\Auto Upload 30 OCT  2015\AutoUpload\Service1.cs(29,23): warning CS0169: The field 'BrokerageMail.Service1.sqldr' is never used
+D:\ABHI Softwares 16 oct 2014\Auto Upload\Auto Upload 30 OCT  2015\AutoUpload\Service1.cs(30,18): warning CS0169: The field 'BrokerageMail.Service1.sortby' is never used
+D:\ABHI Softwares 16 oct 2014\Auto Upload\Auto Upload 30 OCT  2015\AutoUpload\Service1.cs(31,16): warning CS0169: The field 'BrokerageMail.Service1.query' is never used
+D:\ABHI Softwares 16 oct 2014\Auto Upload\Auto Upload 30 OCT  2015\AutoUpload\Service1.cs(32,18): warning CS0169: The field 'BrokerageMail.Service1.data' is never used
+D:\ABHI Softwares 16 oct 2014\Auto Upload\Auto Upload 30 OCT  2015\AutoUpload\Service1.cs(33,20): warning CS0169: The field 'BrokerageMail.Service1.groupby' is never used
+D:\ABHI Softwares 16 oct 2014\Auto Upload\Auto Upload 30 OCT  2015\AutoUpload\Service1.cs(36,22): warning CS0169: The field 'BrokerageMail.Service1.where' is never used
+
+Compile complete -- 0 errors, 40 warnings
+  AutoUpload -> D:\ABHI Softwares 16 oct 2014\Auto Upload\Auto Upload 30 OCT  2015\AutoUpload\bin\Debug\AutoUpload.exe
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========

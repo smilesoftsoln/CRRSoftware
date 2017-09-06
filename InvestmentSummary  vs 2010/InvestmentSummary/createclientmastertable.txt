@@ -1,0 +1,56 @@
+
+CREATE TABLE [dbo].[Cust_Client_Master](
+	[clientid] [bigint] IDENTITY(1,1) NOT NULL,
+	[clientcode] [nvarchar](50) NULL,
+	[family] [nvarchar](max) NULL,
+	[clientname] [nvarchar](max) NULL,
+	[shortname] [nvarchar](max) NULL,
+	[branch] [nvarchar](max) NULL,
+	[subbrokercode] [nvarchar](max) NULL,
+	[trader] [nvarchar](max) NULL,
+	[landline1] [nvarchar](max) NULL,
+	[landline2] [nvarchar](max) NULL,
+	[mobileno] [nvarchar](max) NULL,
+	[emailid] [nvarchar](max) NULL,
+	[panno] [nvarchar](max) NULL,
+	[activefrom] [nvarchar](max) NULL,
+	[inactivefrom] [nvarchar](max) NULL,
+	[approvedby] [nvarchar](max) NULL,
+	[introducer] [nvarchar](max) NULL,
+	[bankcode] [nvarchar](max) NULL,
+	[bankname] [nvarchar](max) NULL,
+	[paymentmode] [nvarchar](max) NULL,
+	[defaultdpld] [nvarchar](max) NULL,
+	[clientdpld] [nvarchar](max) NULL,
+	[clientaccno] [nvarchar](max) NULL,
+	[clientbankname] [nvarchar](max) NULL,
+	[address1] [nvarchar](max) NULL,
+	[address2] [nvarchar](max) NULL,
+	[address3] [nvarchar](max) NULL,
+	[city] [nvarchar](max) NULL,
+	[state] [nvarchar](max) NULL,
+	[nation] [nvarchar](max) NULL,
+	[zip] [nvarchar](max) NULL,
+	[insdate] [datetime] NULL,
+	[update1] [datetime] NULL,
+	[mf] [nvarchar](max) NULL,
+ CONSTRAINT [PK_Cust_Client_Master] PRIMARY KEY CLUSTERED 
+(
+	[clientid] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+/********************/
+ 
+CREATE TABLE [dbo].[UserMaster](
+	[userid] [int] IDENTITY(1,1) NOT NULL,
+	[username] [nvarchar](max) NULL,
+	[password] [nvarchar](max) NULL,
+	[role] [nvarchar](50) NULL,
+	[type] [nvarchar](max) NULL,
+	[loggedin] [nvarchar](max) NULL,
+	[emailid] [nvarchar](max) NULL,
+ CONSTRAINT [PK_UserMaster] PRIMARY KEY CLUSTERED 
+(
+	[userid] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]

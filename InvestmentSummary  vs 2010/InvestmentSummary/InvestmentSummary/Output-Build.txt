@@ -1,0 +1,25 @@
+﻿------ Rebuild All started: Project: InvestmentSummary, Configuration: Debug Any CPU ------
+D:\abhijeet\InvestmentSummary 21 AUG 2015\InvestmentSummary\InvestmentSummary\DP919.aspx.cs(46,20): warning CS0219: The variable 'a' is assigned but its value is never used
+D:\abhijeet\InvestmentSummary 21 AUG 2015\InvestmentSummary\InvestmentSummary\DP919.aspx.cs(47,17): warning CS0219: The variable 'row_no' is assigned but its value is never used
+D:\abhijeet\InvestmentSummary 21 AUG 2015\InvestmentSummary\InvestmentSummary\CashNetRisk.aspx.cs(75,24): warning CS0219: The variable 'a' is assigned but its value is never used
+D:\abhijeet\InvestmentSummary 21 AUG 2015\InvestmentSummary\InvestmentSummary\CashNetRisk.aspx.cs(121,29): warning CS0219: The variable 'last' is assigned but its value is never used
+D:\abhijeet\InvestmentSummary 21 AUG 2015\InvestmentSummary\InvestmentSummary\DP900.aspx.cs(46,20): warning CS0219: The variable 'a' is assigned but its value is never used
+D:\abhijeet\InvestmentSummary 21 AUG 2015\InvestmentSummary\InvestmentSummary\DP900.aspx.cs(47,17): warning CS0219: The variable 'row_no' is assigned but its value is never used
+D:\abhijeet\InvestmentSummary 21 AUG 2015\InvestmentSummary\InvestmentSummary\ImportMaster.aspx.cs(289,26): warning CS0219: The variable 'ccmf1' is assigned but its value is never used
+D:\abhijeet\InvestmentSummary 21 AUG 2015\InvestmentSummary\InvestmentSummary\ImportMaster.aspx.cs(292,32): warning CS0219: The variable 'branch' is assigned but its value is never used
+D:\abhijeet\InvestmentSummary 21 AUG 2015\InvestmentSummary\InvestmentSummary\Margin_Funding.aspx.cs(48,24): warning CS0219: The variable 'a' is assigned but its value is never used
+D:\abhijeet\InvestmentSummary 21 AUG 2015\InvestmentSummary\InvestmentSummary\Margin_Funding.aspx.cs(66,29): warning CS0219: The variable 'value' is assigned but its value is never used
+D:\abhijeet\InvestmentSummary 21 AUG 2015\InvestmentSummary\InvestmentSummary\Margin_Funding.aspx.cs(94,29): warning CS0219: The variable 'last' is assigned but its value is never used
+D:\abhijeet\InvestmentSummary 21 AUG 2015\InvestmentSummary\InvestmentSummary\Margin_Funding.aspx.cs(128,50): warning CS0168: The variable 'ex' is declared but never used
+D:\abhijeet\InvestmentSummary 21 AUG 2015\InvestmentSummary\InvestmentSummary\confirmation\ConfirmationEntry.aspx.cs(40,30): warning CS0168: The variable 'ex' is declared but never used
+D:\abhijeet\InvestmentSummary 21 AUG 2015\InvestmentSummary\InvestmentSummary\Admin.aspx.cs(95,30): warning CS0168: The variable 'objException' is declared but never used
+D:\abhijeet\InvestmentSummary 21 AUG 2015\InvestmentSummary\InvestmentSummary\ReminderSMS.aspx.cs(94,50): warning CS0168: The variable 'objException' is declared but never used
+D:\abhijeet\InvestmentSummary 21 AUG 2015\InvestmentSummary\InvestmentSummary\ReminderSMS.aspx.cs(107,34): warning CS0168: The variable 'ex' is declared but never used
+D:\abhijeet\InvestmentSummary 21 AUG 2015\InvestmentSummary\InvestmentSummary\RM_Mapping.aspx.cs(27,23): warning CS0169: The field 'InvestmentSummary.RM_Mapping.dr' is never used
+D:\abhijeet\InvestmentSummary 21 AUG 2015\InvestmentSummary\InvestmentSummary\ReminderUpdate.aspx.cs(28,19): warning CS0169: The field 'InvestmentSummary.ReminderUpdate.dt' is never used
+D:\abhijeet\InvestmentSummary 21 AUG 2015\InvestmentSummary\InvestmentSummary\confirmation\ContactModification.aspx.cs(26,23): warning CS0169: The field 'InvestmentSummary.confirmation.ContactModification.dr' is never used
+D:\abhijeet\InvestmentSummary 21 AUG 2015\InvestmentSummary\InvestmentSummary\Snooze.aspx.cs(29,19): warning CS0169: The field 'InvestmentSummary.Snooze.dt' is never used
+
+Compile complete -- 0 errors, 20 warnings
+  InvestmentSummary -> D:\abhijeet\InvestmentSummary 21 AUG 2015\InvestmentSummary\InvestmentSummary\bin\InvestmentSummary.dll
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
